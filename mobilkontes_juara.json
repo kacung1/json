@@ -1,0 +1,282 @@
+{ "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"ca-app-pub-5024008654277556/4742379610x",
+      "main_ads_intertitial_applovin": "093d8b735df39a52",
+      "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/22476961100",
+      "backup_native_for_admob_applovin":"b730b0cb655425fb",
+      "backup_ads_banner":"0000000000",
+      "backup_ads_intertitial":"093d8b735df39a52",
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "matikan_download":"1",
+      "data_json":"http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/bussid.json",
+      "matikan_iklan":"0",
+      "link_redirect": "https://",
+ 
+      "aff_ads":"1",
+      "link_aff":"https://shope.ee/5UtBlDa63X"
+	    
+    }
+  ],
+ "DATA":
+  [
+	
+	{
+      "title":"Mobil Keren Tesla Roadster",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/058.jpg",
+      "link_mods":"https://www.mediafire.com/file/t3grrdu56zgpch2/Tesla_Roadster_by_MAH_Channel.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Supercar Bugatti Chiron by Azumods",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/138.jpg",
+      "link_mods":"http://www.mediafire.com/file/ms8hp911n93z3ai/file",
+      "link_livery":""
+},
+{
+      "title":"Mobil Lamborghini Aventador",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/018.jpg",
+      "link_mods":"https://www.mediafire.com/file/8kwubm4js07hy55/Mod+BUSSID+Lamborghini.bussidvehicle/file",
+      "link_livery":""
+},
+{
+      "title":"American Muscle Dodge Challenger SRT",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/033.jpg",
+      "link_mods":"https://www.mediafire.com/file/1m56ord57hw62mq/Dodge_Challenger_SRT_Demon_by_MAH_Channel.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Ferrari 458 Spider",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/034.jpg",
+      "link_mods":"https://www.mediafire.com/file/ucu0z34qiia0jh0/Ferrari_458_Spider_Liberty_Walk_cvt_MAH_Channel.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Mobil Mewah Bugatti Vision GT",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/020-1.jpg",
+      "link_mods":"https://www.mediafire.com/file/mf7t2j7j4bknom3/Bugatti_Vision_GT_MAH_Channel.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/89y79qi7nee6f67/black_2.png/file"
+},
+{
+      "title":"Supercar Ferrari Portofino by Azumods",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/134.jpg",
+      "link_mods":"http://www.mediafire.com/file/2japgrsnaeph4uf/file",
+      "link_livery":""
+},
+{
+      "title":"Mobil sport Lamborghini Centenario",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/011-1.jpg",
+      "link_mods":"https://www.mediafire.com/file/44ykjf0px6pm3su/Lamborghini_Centenario_Cvt_By_EAP_.bussidvehicle/file",
+      "link_livery":""
+},
+{
+      "title":"Supercar Pagani Huayra",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/131.jpg",
+      "link_mods":"https://www.mediafire.com/file/m3jwghvlxl8kail/Pagani_Huayra_by_MAH_Channel.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Mobil Lamborghini veneno by EAP",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/141.jpg",
+      "link_mods":"https://www.mediafire.com/file/380xbkmwo9tyfgd/Lamborghini_Veneno_Cvt_By_EAP.bussidvehicle/file",
+      "link_livery":""
+},
+{
+      "title":"Mobil Bugatti Divo Hypercar Kencang",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/002.jpg",
+      "link_mods":"https://www.mediafire.com/file/r9j2q5gbaicifbj/MOD-BUSSID-Mobil_Bugatti-Divo_ModBussidTerbaru.com.bussidvehicle/file",
+      "link_livery":""
+},
+{
+      "title":"Mobil BMW M3 E92 GTS",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/027.jpg",
+      "link_mods":"https://www.mediafire.com/file/u3k1zlr52q5nia5/BMW_M3_E92_GTS_cvt_MAH_Channel.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Mercedes Benz GLE 450",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/050.jpg",
+      "link_mods":"https://www.mediafire.com/file/jbfqiq8ywoxd6ke/Mercedes-Benz_GLE_450_cvt_MAH_Channel.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"MobilToyota crown royal saloon",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/059.jpg",
+      "link_mods":"https://www.mediafire.com/file/1vz7lmql9c6h0r3/Toyota_Crown_Royal_Saloon_by_MAH_Channel.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Hyundai Palisade",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/062.jpg",
+      "link_mods":"https://www.mediafire.com/file/tvtxvi1i10vc5su/Hyundai_Palisade_2021_by_MAH_Channel.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Mobil Mewah Maybach Exelero",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/044.jpg",
+      "link_mods":"https://www.mediafire.com/file/lv1fgjaylvcspyy/Maybach_Exelero_cvt_MAH_Channel.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Mobil BMW i8",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/143.jpg",
+      "link_mods":"https://www.mediafire.com/file/6y59kbgdymh34sq/BMW_i8_by_Angel_Cvt_By_EAP.bussidvehicle/file",
+      "link_livery":""
+},
+{
+      "title":"Aston Martin DBS Mobil Mewah",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/024.jpg",
+      "link_mods":"https://www.mediafire.com/file/tokugev34g5ln3g/Aston_Martin_DBS_by_MAH_Channel.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Mobil Bussid Hummer H3 Limousine",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/008.jpg",
+      "link_mods":"https://www.mediafire.com/file/gtbf4gdyoxsah3a/HUMMER+H3+LIMO+SHARE+BY+JODS+TV.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Hummer H2 6×6 Terbaru",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/021.jpg",
+      "link_mods":"https://www.mediafire.com/file/2u7fluqdqsh3fs6/Hummer_H2_6x6_MAH_Channel.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Toyota Vellfire",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/125.jpg",
+      "link_mods":"https://www.mediafire.com/file/m0ick0623vrpcis/Toyota_Vellfire.bussidvehicle/file",
+      "link_livery":""
+},
+{
+      "title":"Mobil Toyota Camry",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/160.jpg",
+      "link_mods":"https://www.mediafire.com/file/wbqwxjsoxvjth3r/Toyota_Camry_by_MAH_Channel.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"JDM Toyota Supra A80 Full Anim",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/005.jpg",
+      "link_mods":"https://www.mediafire.com/file/fwc6uvgnsfhvbx2/TOYOTA+SUPRA+A80+SHARE+BY+JODS+TV.bussidmod/file,
+      "link_livery":""
+},
+{
+      "title":"Mobil Keren Mazda Rx-f7",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/046.jpg",
+      "link_mods":"https://www.mediafire.com/file/4scwydmp8tjiqli/Mazda_RX-F7_by_MAH_Channel.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Honda Accord terbaru",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/037.jpg",
+      "link_mods":"https://www.mediafire.com/file/ir09fvznbdq3pke/Honda_Accord_2.0T_Sport_cvt_MAH_Channel.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Bussid Mobil Mazda RX7",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/128.jpg",
+      "link_mods":"https://www.mediafire.com/file/4put4vvj9vebqko/Mazda_RX-7_by_MAH_Channel.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/la1e5wfcv9e5iho/Livery_Red_Mazda_RX-7_by_MAH.png/file"
+},
+{
+      "title":"Toyota Supra Fast Furious",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/061.jpg",
+      "link_mods":"https://www.mediafire.com/file/8nfziegool8xnpz/Toyota_Supra_Paul_Walker_by_MAH_Channel.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Jeep Gladiator 2020",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/042.jpg",
+      "link_mods":"https://www.mediafire.com/file/ret2vg2cb3mzbqa/Jeep_Gladiator_2020_cvt_MAH_Channel.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Daihatsu Sirion",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/009.jpg",
+      "link_mods":"https://www.mediafire.com/file/fyjz56nz2jw1xkk/DAIHATSU+SIRION+SHARE+BY+JODS+TV.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Mobil Ford Fiesta terbaru",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/010-2.jpg",
+      "link_mods":"https://www.mediafire.com/file/bfswvsglvp0kwl3/FORD+FIESTA.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Mobil Range Rover velar Keren",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/057.jpg",
+      "link_mods":"https://www.mediafire.com/file/cksuetes99esq7z/Range_Rover_Velar_2021_by_MAH_Channel.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"jeep Rubicon",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/017.jpg",
+      "link_mods":"https://www.mediafire.com/file/5kpl4ukmdcjad8c/Jeep_Rubicon_-_Feesheldon.com.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Mobil Keluarga Toyota Calya",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/154.jpg",
+      "link_mods":"https://www.mediafire.com/file/mua99rxc5in1bl1/Toyota_Calya_New_Update.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Mobil Mini Cooper",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/014-1.jpg",
+      "link_mods":"http://www.mediafire.com/file/hpuirpgv5salp8z/MINI_COOPER-S_CVT_BY_EAP.bussidvehicle/file",
+      "link_livery":""
+},
+{
+      "title":"Mobil Toyota Fortuner terbaru",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/124.jpg",
+      "link_mods":"https://www.mediafire.com/file/6td43277vj1lo22/Toyota_Fortuner_TRD_by_DSP.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/6vhtsjq8cs21et0/Livery_Black_Toyota_Fortuner_TRD.png/file"
+},
+{
+      "title":"Toyota Rush Standar",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/022.jpg",
+      "link_mods":"https://www.mediafire.com/file/frsxncf6he8durh/MOD_ALL_NEW_RUSH_V1_2021_BUSSID_BY_AZUMODS.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/s0vn5l0vbcm6wmm/Rush_Standar.png/file"
+},
+{
+      "title":"Chevrolet Nova",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/10/032.jpg",
+      "link_mods":"https://www.mediafire.com/file/0iyg77gyffut0mt/Chevrolet_Nova_S10_cvt_MAH_Channel.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Carry Pickup Suzuki",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/120.jpg",
+      "link_mods":"https://www.mediafire.com/file/ndsshf4ibilep0n/Suzuki_Carry_by_MAH_Channel.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Mobil Avanza",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2022/02/1433.jpg",
+      "link_mods":"https://www.mediafire.com/file/j985f37tf4a3o84/avanza.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Mobil Honda Civic Type R",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/2533.jpg",
+      "link_mods":"https://bit.ly/3wsrtOd",
+      "link_livery":"https://www.mediafire.com/view/9nom3famznw5imo/Livery_Honda_Civic_type_R_V2_by_RacingGame.jpg/file"
+},
+{
+      "title":"Supercar ferrari FXX-K",
+      "image":"https://i2.wp.com/www.segitekno.com/wp-content/uploads/2021/07/145.jpg",
+      "link_mods":"https://www.mediafire.com/file/651aejzwpwm4dlu/Ferrari_FXXK_By_MAH_Channel.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/3dgz47zgy7ft4zj/Merah.png/file"
+}
+	
+  ]
+}
