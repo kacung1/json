@@ -1,0 +1,444 @@
+{ "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"ca-app-pub-5024008654277556/4742379610x",
+      "main_ads_intertitial_applovin": "093d8b735df39a52",
+      "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/22476961100",
+      "backup_native_for_admob_applovin":"b730b0cb655425fb",
+      "backup_ads_banner":"0000000000",
+      "backup_ads_intertitial":"093d8b735df39a52",
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "matikan_download":"1",
+      "data_json":"http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/bussid.json",
+      "matikan_iklan":"0",
+      "link_redirect": "https://",
+ 
+      "aff_ads":"1",
+      "link_aff":"https://shope.ee/5UtBlDa63X"
+	    
+    }
+  ],
+ "DATA":
+  [
+	
+	{
+      "title":"Truck Canter Negeri Jagung Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/07/1.-Screenshot_2022-07-06-19-11-44-19_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/czm28dkxe5ujn9w/1._Canter_Negeri_Jagung_by_KG.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/6msx12hxlmeyy57/1._Livery_Negeri_Jagung_by_Tony_05_ID.png/file"
+},
+{
+      "title":"Truck Canter BOX Indomaret Mbois Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/09/2.-Screenshot_2022-09-12-08-21-05-09_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/p0u93bw4qk80fdv/2.+CANTER+BOX+MBOIS.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/gwyq2ll6xkyo3pt/2.+IMG_20220612_214534.png/file"
+},
+{
+      "title":"Truck Canter Muatan Sound System Bussid",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2019/12/mod-bussid-truck-angkut-sound-system.jpg",
+      "link_mods":"https://drive.google.com/open?id=1t_8-EBZyV9PmPQnFE5DP5-w_PNtIhx9e",
+      "link_livery":""
+},
+{
+      "title":"Truck Rollis Terpal Gayor Bussid 3D Full Anim",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2020/11/download-mod-truck-rollis-terpal-gayor-bussid-1536x709.jpg",
+      "link_mods":"https://www.mediafire.com/file/1xg3fiefkq59f3e/New_Rollis_Terpal_Gayor.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Umplung Muatan Kayu Bussid",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2019/12/mod-Truck-Mitsubishi-angkut-kayu.jpg",
+      "link_mods":"http://www.mediafire.com/file/1k4d5gjxhrsrpka/umplungkayu.bussidvehicle/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Canter Ragasa Muatan Kayu Overload Oleng",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/07/9.-Screenshot_2022-07-13-14-36-25-17_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/u7o99vlykmd3a4m/9.+Ragasa+Muat+Kayu+Overload+by+SG.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Hino Gandeng Ukuran Panjang Muatan Berat Pipa Beton",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/06/6.-Screenshot_2022-06-29-22-36-24-91_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/svrc41dd09gagwr/6.+Hino+500+Muatan+Pipa+Beton+by+Ghoni+Rk.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/h8h326u0qllbufq/6.+Livery+Hino+Muatan+Pipa.png/file"
+},
+{
+      "title":"Truck Budak Rawit Full Anim Bussid",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2020/11/download-mod-bussid-truck-budak-rawit-full-anim-terbaru.jpeg",
+      "link_mods":"http://www.mediafire.com/file/3285hv1yagcfbz6/CANTER+BUDAK+RAWIT+%5BRMC+CREATION%5D.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/ivntg3n0fj9ik8h/Budak_Rawit_Fix_By_Lfdsgn.png/file"
+},
+{
+      "title":"Truck Canter Muatan Rombongan Demo Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/07/2.-Screenshot_2022-07-20-23-33-47-51_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/mntto30rvvk5bj5/2.+Canter+Muatan+Rombongan+Demo+by+AD+ISKN.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Isuzu NKR Towing Muatan Beko Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/08/7.-Screenshot_2022-08-19-20-24-32-36_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/jxjesl6hvmtdd1d/7.+Isuzu+NKR+Towing+Angkut+Beko+by+MS+Project.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Tangki Pertamina UD Quester Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/09/8.-Screenshot_2022-09-12-08-24-52-46_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/pd0v02eslk0qbuw/8.+QUESTER.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/ocjel724hl3vsql/8.+UD+QUESTER+PERTAMINA+STANDAR+BY+MH+GAMEPLAYS.png/file"
+},
+{
+      "title":"Truck Fuso New Fighter Mbois Full Anim",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-08-18-50-34-98_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/dy5r4bb5vaywr94/1.FUSO+NEW+FIGHTER+SHARE+BY+JODS+TV.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/gokxt0ptrvnz1kx/1..MOD_FUSO+MBOIS+2.bussidmodMod+Vehicle0-picsay.png/file"
+},
+{
+      "title":"Truck Isuzu NKR Towing Muatan Beko Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/08/7.-Screenshot_2022-08-19-20-24-32-36_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/jxjesl6hvmtdd1d/7.+Isuzu+NKR+Towing+Angkut+Beko+by+MS+Project.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Isuzu NMR 71 Livery Najwa Shihab Full Anim",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/07/10.-Screenshot_2022-07-20-23-39-21-72_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/d763pleq8lh7d6h/10.+Isuzu+NMR+71+Najwa+Shihab+No+Terpal+by+Souleh+Art.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/0wwji8x3pjetrp7/10.+Livery+Najwa+Shihab+by+Dhe+Adi.png/file"
+},
+{
+      "title":"Truck Canter Boy Kiano Jamaica Full Anim",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/07/2.-Screenshot_2022-07-06-19-12-56-74_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/kz9d3otzqhchriv/2._Canter_Boy_Kiano_Jamaica_by_Budesign.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/rlevsri8vk6yt01/2._Livery_Boy_Kiano_by_X_Play_Kembar.png/file"
+},
+{
+      "title":"Truck Isuzu NKR 73 Hedon Modif Keren Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/06/3.-Screenshot_2022-06-29-22-31-29-64_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/6bquk4p8s5lygyi/3..+Isuzu+NKR+71+Hedon+by+Bonfire.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Isuzu NKR 73 Hedon Modif Keren Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/06/3.-Screenshot_2022-06-29-22-31-29-64_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/6bquk4p8s5lygyi/3..+Isuzu+NKR+71+Hedon+by+Bonfire.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Canter Mbois Oleng Muatan Orang Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/07/4.-Screenshot_2022-07-20-23-34-08-48_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/9taavahef726h5d/4.+Canter+Mbois+Oleng+by+AD+ISKN.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Canter Engkel MBOIS Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/07/4.-Screenshot_2022-07-06-19-15-51-96_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/qs5bw1kmba6qpsb/Truck_Engkel_Mbois_by_AD_ISKN.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Canter NMR 71 Mbois Full Strobo Bussid",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2020/11/Mod-Truck-Canter-NMR-71-Mbois-Full-Strobo-Bussid-terbaru.jpg",
+      "link_mods":"http://www.mediafire.com/file/ozg82u7lybss829/nmr71+full+strobo.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Canter Sinden Gosip Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/06/1.-Screenshot_2022-06-29-22-28-57-80_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/kntarufdn08bbj4/1.+Canter+Sinden+Gosip+by+Nus+Gameplay.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Canter Engkel MBOIS Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/07/4.-Screenshot_2022-07-06-19-15-51-96_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/qs5bw1kmba6qpsb/Truck_Engkel_Mbois_by_AD_ISKN.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Canter Cabe",
+      "image":"https://gsmtrik.com/wp-content/uploads/2022/07/Truck-Canter-Cabe.jpg",
+      "link_mods":"https://www.mediafire.com/file/fuyszjhs0cunykc/Mod_Truck_Canter_Cabe_-_Gsmtrik.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/val67spaumjuhpg/Livery_Truck_Canter_Cabe_-_Gsmtrik.png/file"
+},
+{
+      "title":"Truck Center Cabe Full Animasi Bos Cilik",
+      "image":"https://gsmtrik.com/wp-content/uploads/2022/07/Truck-Center-Cabe-Full-Animasi-Bos-Cilik.jpg",
+      "link_mods":"https://www.mediafire.com/file/7whnpmou04hyhxp/Mod_Truck_Center_HM_Cabe_Bos_Galak_-_Gsmtrik.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/k7ikqzz6007rk06/Livery_Truck_Center_HM_Cabe_Bos_Galak_-_Gsmtrik.png/file"
+},
+{
+      "title":"Truck Canter Umplung Livery Bos Galak Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/06/5.-Screenshot_2022-06-29-22-35-32-67_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/tlr4eqt9v3izbry/5.+Canter+Umplung+Jahat+Boss+Galak+by+Budesign.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/09zfs9des0034oc/5.+Livery+Boss+Galak+by+X+Play+Kembar.png/file"
+},
+{
+      "title":"Truck Isuzu NKR 73 Hedon Modif Keren Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/06/3.-Screenshot_2022-06-29-22-31-29-64_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/6bquk4p8s5lygyi/3..+Isuzu+NKR+71+Hedon+by+Bonfire.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Canter Republik Gabah Terpal Segitiga Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/06/5.-Screenshot_2022-05-30-23-04-15-41_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/p11kaf4xdt4egtl/5.+MOD+BUSSID+Truck+Canter+Republik+Gabah+by+Budesign.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/usbj3x747mb8u1n/5.+Livery+Republik+Gabah+by+Tony+05+ID.png/file"
+},
+{
+      "title":"Truck Canter Samudra Nusantara Terpal Segitiga Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/05/4.-Screenshot_2022-05-25-14-27-41-79_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/jprzv1exe0383fr/4.+MOD+BUSSID+Truck+Canter+Samudra+Nusantara+by+Budesign.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/yoeb95i6gjlyvvh/4.+Livery+Canter+Samudra+Nusantara+Terpal+Segitiga+by+RG+Design.png/file"
+},
+{
+      "title":"Truck Canter NKR V6 Muatan Tebu Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/05/3.-Screenshot_2022-05-25-14-26-23-53_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/8d23awgrdvdfdlw/3.+MOD+BUSSID+Truck+Canter+NKR+Po+V6+by+Muhklas+Po.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/5nigu36hxl6dv3r/3.+Livery+NKR+V6+Muat+Tebu+by+Muhklas+Po.png/file"
+},
+{
+      "title":"Truck Canter Terpal Segitiga New Kanjeng Mami Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/05/1.-Screenshot_2022-05-23-14-41-54-92_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/ie4btso5r2q43uy/1.+Truck+Canter+New+Kanjeng+Mami+V1+Standar+by+AD+ISKN.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/0i5nsvu64ocoavc/1.+Livery+New+Kanjeng+Mami+Ungu+by+MH+Gameplays.png/file"
+},
+{
+      "title":"Truck Canter Wahyu Abadi Terbaru Full Anim",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2021/05/Screenshot_2021-05-24-14-43-37-51_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/i74lcezcx5c4m3i/3.+WAHYU+ABADI.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/qq0euetd1dhugoc/3.+Livery+wahyu+abadI+fam8os+by+RGDESIGN..png/file"
+},
+{
+      "title":"Truck Canter Minimalis Bemper Avante Bussid",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2020/11/Mod-Truck-Canter-Minimalis-Bemper-Avante-Bussid-terbaru.jpg",
+      "link_mods":"http://www.mediafire.com/file/h65o8grpsf5d46m/truck+canter+minimalis+bember+avante.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Fuso The Great Full Anim",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2021/05/Screenshot_2021-05-27-19-35-49-15_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/e1bmy9aivjd5ngn/1.+FUSO+TG.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/x3neztda8mt4sqs/1.+OHMAIGAT.png/file"
+},
+{
+      "title":"Truck HDL Gayor Full Anim",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2021/05/Screenshot_2021-05-27-19-36-36-41_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/99gfmlq1ars9qqf/2.+HDL+GAYOR.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/54nnxd0m5d0ijf7/2.+TEST+1.png/file"
+},
+{
+      "title":"Truck Canter Negeri Jagung Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/07/1.-Screenshot_2022-07-06-19-11-44-19_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/czm28dkxe5ujn9w/1._Canter_Negeri_Jagung_by_KG.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/6msx12hxlmeyy57/1._Livery_Negeri_Jagung_by_Tony_05_ID.png/file"
+},
+{
+      "title":"Truck Canter BOX Indomaret Mbois Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/09/2.-Screenshot_2022-09-12-08-21-05-09_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/p0u93bw4qk80fdv/2.+CANTER+BOX+MBOIS.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/gwyq2ll6xkyo3pt/2.+IMG_20220612_214534.png/file"
+},
+{
+      "title":"Truck Canter Muatan Sound System Bussid",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2019/12/mod-bussid-truck-angkut-sound-system.jpg",
+      "link_mods":"https://drive.google.com/open?id=1t_8-EBZyV9PmPQnFE5DP5-w_PNtIhx9e",
+      "link_livery":""
+},
+{
+      "title":"Truck Rollis Terpal Gayor Bussid 3D Full Anim",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2020/11/download-mod-truck-rollis-terpal-gayor-bussid-1536x709.jpg",
+      "link_mods":"https://www.mediafire.com/file/1xg3fiefkq59f3e/New_Rollis_Terpal_Gayor.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Umplung Muatan Kayu Bussid",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2019/12/mod-Truck-Mitsubishi-angkut-kayu.jpg",
+      "link_mods":"http://www.mediafire.com/file/1k4d5gjxhrsrpka/umplungkayu.bussidvehicle/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Canter Ragasa Muatan Kayu Overload Oleng",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/07/9.-Screenshot_2022-07-13-14-36-25-17_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/u7o99vlykmd3a4m/9.+Ragasa+Muat+Kayu+Overload+by+SG.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Hino Gandeng Ukuran Panjang Muatan Berat Pipa Beton",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/06/6.-Screenshot_2022-06-29-22-36-24-91_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/svrc41dd09gagwr/6.+Hino+500+Muatan+Pipa+Beton+by+Ghoni+Rk.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/h8h326u0qllbufq/6.+Livery+Hino+Muatan+Pipa.png/file"
+},
+{
+      "title":"Truck Budak Rawit Full Anim Bussid",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2020/11/download-mod-bussid-truck-budak-rawit-full-anim-terbaru.jpeg",
+      "link_mods":"http://www.mediafire.com/file/3285hv1yagcfbz6/CANTER+BUDAK+RAWIT+%5BRMC+CREATION%5D.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/ivntg3n0fj9ik8h/Budak_Rawit_Fix_By_Lfdsgn.png/file"
+},
+{
+      "title":"Truck Canter Muatan Rombongan Demo Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/07/2.-Screenshot_2022-07-20-23-33-47-51_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/mntto30rvvk5bj5/2.+Canter+Muatan+Rombongan+Demo+by+AD+ISKN.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Isuzu NKR Towing Muatan Beko Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/08/7.-Screenshot_2022-08-19-20-24-32-36_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/jxjesl6hvmtdd1d/7.+Isuzu+NKR+Towing+Angkut+Beko+by+MS+Project.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Tangki Pertamina UD Quester Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/09/8.-Screenshot_2022-09-12-08-24-52-46_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/pd0v02eslk0qbuw/8.+QUESTER.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/ocjel724hl3vsql/8.+UD+QUESTER+PERTAMINA+STANDAR+BY+MH+GAMEPLAYS.png/file"
+},
+{
+      "title":"Truck Fuso New Fighter Mbois Full Anim",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2021/01/Screenshot_2021-01-08-18-50-34-98_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/dy5r4bb5vaywr94/1.FUSO+NEW+FIGHTER+SHARE+BY+JODS+TV.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/gokxt0ptrvnz1kx/1..MOD_FUSO+MBOIS+2.bussidmodMod+Vehicle0-picsay.png/file"
+},
+{
+      "title":"Truck Isuzu NKR Towing Muatan Beko Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/08/7.-Screenshot_2022-08-19-20-24-32-36_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/jxjesl6hvmtdd1d/7.+Isuzu+NKR+Towing+Angkut+Beko+by+MS+Project.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Isuzu NMR 71 Livery Najwa Shihab Full Anim",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/07/10.-Screenshot_2022-07-20-23-39-21-72_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/d763pleq8lh7d6h/10.+Isuzu+NMR+71+Najwa+Shihab+No+Terpal+by+Souleh+Art.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/0wwji8x3pjetrp7/10.+Livery+Najwa+Shihab+by+Dhe+Adi.png/file"
+},
+{
+      "title":"Truck Canter Boy Kiano Jamaica Full Anim",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/07/2.-Screenshot_2022-07-06-19-12-56-74_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/kz9d3otzqhchriv/2._Canter_Boy_Kiano_Jamaica_by_Budesign.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/rlevsri8vk6yt01/2._Livery_Boy_Kiano_by_X_Play_Kembar.png/file"
+},
+{
+      "title":"Truck Isuzu NKR 73 Hedon Modif Keren Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/06/3.-Screenshot_2022-06-29-22-31-29-64_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/6bquk4p8s5lygyi/3..+Isuzu+NKR+71+Hedon+by+Bonfire.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Isuzu NKR 73 Hedon Modif Keren Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/06/3.-Screenshot_2022-06-29-22-31-29-64_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/6bquk4p8s5lygyi/3..+Isuzu+NKR+71+Hedon+by+Bonfire.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Canter Mbois Oleng Muatan Orang Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/07/4.-Screenshot_2022-07-20-23-34-08-48_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/9taavahef726h5d/4.+Canter+Mbois+Oleng+by+AD+ISKN.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Canter Engkel MBOIS Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/07/4.-Screenshot_2022-07-06-19-15-51-96_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/qs5bw1kmba6qpsb/Truck_Engkel_Mbois_by_AD_ISKN.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Canter NMR 71 Mbois Full Strobo Bussid",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2020/11/Mod-Truck-Canter-NMR-71-Mbois-Full-Strobo-Bussid-terbaru.jpg",
+      "link_mods":"http://www.mediafire.com/file/ozg82u7lybss829/nmr71+full+strobo.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Canter Sinden Gosip Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/06/1.-Screenshot_2022-06-29-22-28-57-80_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/kntarufdn08bbj4/1.+Canter+Sinden+Gosip+by+Nus+Gameplay.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Canter Engkel MBOIS Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/07/4.-Screenshot_2022-07-06-19-15-51-96_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/qs5bw1kmba6qpsb/Truck_Engkel_Mbois_by_AD_ISKN.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Canter Cabe",
+      "image":"https://gsmtrik.com/wp-content/uploads/2022/07/Truck-Canter-Cabe.jpg",
+      "link_mods":"https://www.mediafire.com/file/fuyszjhs0cunykc/Mod_Truck_Canter_Cabe_-_Gsmtrik.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/val67spaumjuhpg/Livery_Truck_Canter_Cabe_-_Gsmtrik.png/file"
+},
+{
+      "title":"Truck Center Cabe Full Animasi Bos Cilik",
+      "image":"https://gsmtrik.com/wp-content/uploads/2022/07/Truck-Center-Cabe-Full-Animasi-Bos-Cilik.jpg",
+      "link_mods":"https://www.mediafire.com/file/7whnpmou04hyhxp/Mod_Truck_Center_HM_Cabe_Bos_Galak_-_Gsmtrik.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/k7ikqzz6007rk06/Livery_Truck_Center_HM_Cabe_Bos_Galak_-_Gsmtrik.png/file"
+},
+{
+      "title":"Truck Canter Umplung Livery Bos Galak Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/06/5.-Screenshot_2022-06-29-22-35-32-67_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/tlr4eqt9v3izbry/5.+Canter+Umplung+Jahat+Boss+Galak+by+Budesign.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/09zfs9des0034oc/5.+Livery+Boss+Galak+by+X+Play+Kembar.png/file"
+},
+{
+      "title":"Truck Isuzu NKR 73 Hedon Modif Keren Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/06/3.-Screenshot_2022-06-29-22-31-29-64_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/6bquk4p8s5lygyi/3..+Isuzu+NKR+71+Hedon+by+Bonfire.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Canter Republik Gabah Terpal Segitiga Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/06/5.-Screenshot_2022-05-30-23-04-15-41_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/p11kaf4xdt4egtl/5.+MOD+BUSSID+Truck+Canter+Republik+Gabah+by+Budesign.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/usbj3x747mb8u1n/5.+Livery+Republik+Gabah+by+Tony+05+ID.png/file"
+},
+{
+      "title":"Truck Canter Samudra Nusantara Terpal Segitiga Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/05/4.-Screenshot_2022-05-25-14-27-41-79_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/jprzv1exe0383fr/4.+MOD+BUSSID+Truck+Canter+Samudra+Nusantara+by+Budesign.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/yoeb95i6gjlyvvh/4.+Livery+Canter+Samudra+Nusantara+Terpal+Segitiga+by+RG+Design.png/file"
+},
+{
+      "title":"Truck Canter NKR V6 Muatan Tebu Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/05/3.-Screenshot_2022-05-25-14-26-23-53_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/8d23awgrdvdfdlw/3.+MOD+BUSSID+Truck+Canter+NKR+Po+V6+by+Muhklas+Po.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/5nigu36hxl6dv3r/3.+Livery+NKR+V6+Muat+Tebu+by+Muhklas+Po.png/file"
+},
+{
+      "title":"Truck Canter Terpal Segitiga New Kanjeng Mami Full Animasi",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2022/05/1.-Screenshot_2022-05-23-14-41-54-92_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/ie4btso5r2q43uy/1.+Truck+Canter+New+Kanjeng+Mami+V1+Standar+by+AD+ISKN.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/0i5nsvu64ocoavc/1.+Livery+New+Kanjeng+Mami+Ungu+by+MH+Gameplays.png/file"
+},
+{
+      "title":"Truck Canter Wahyu Abadi Terbaru Full Anim",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2021/05/Screenshot_2021-05-24-14-43-37-51_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/i74lcezcx5c4m3i/3.+WAHYU+ABADI.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/qq0euetd1dhugoc/3.+Livery+wahyu+abadI+fam8os+by+RGDESIGN..png/file"
+},
+{
+      "title":"Truck Canter Minimalis Bemper Avante Bussid",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2020/11/Mod-Truck-Canter-Minimalis-Bemper-Avante-Bussid-terbaru.jpg",
+      "link_mods":"http://www.mediafire.com/file/h65o8grpsf5d46m/truck+canter+minimalis+bember+avante.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Truck Fuso The Great Full Anim",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2021/05/Screenshot_2021-05-27-19-35-49-15_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/e1bmy9aivjd5ngn/1.+FUSO+TG.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/x3neztda8mt4sqs/1.+OHMAIGAT.png/file"
+},
+{
+      "title":"Truck HDL Gayor Full Anim",
+      "image":"https://modbussidterbaru.com/wp-content/uploads/2021/05/Screenshot_2021-05-27-19-36-36-41_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"https://www.mediafire.com/file/99gfmlq1ars9qqf/2.+HDL+GAYOR.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/file/54nnxd0m5d0ijf7/2.+TEST+1.png/file"
+}
+	
+  ]
+}
