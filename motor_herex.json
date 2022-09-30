@@ -1,0 +1,216 @@
+{ "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"ca-app-pub-5024008654277556/4742379610x",
+      "main_ads_intertitial_applovin": "093d8b735df39a52",
+      "main_native_for_admob_applovin":"ca-app-pub-3940256099942544/22476961100",
+      "backup_native_for_admob_applovin":"b730b0cb655425fb",
+      "backup_ads_banner":"0000000000",
+      "backup_ads_intertitial":"093d8b735df39a52",
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "matikan_download":"1",
+      "data_json":"http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/bussid.json",
+      "matikan_iklan":"0",
+      "link_redirect": "https://",
+ 
+      "aff_ads":"1",
+      "link_aff":"https://shope.ee/5UtBlDa63X"
+	    
+    }
+  ],
+ "DATA":
+  [
+	
+	{
+      "title":"Motor RX KING",
+      "image":"https://1.bp.blogspot.com/-k9ixeyLTh_Y/YKKwErAzzjI/AAAAAAAAMos/VxyMg1Ow5WsutCKuvU6LE3_g9NYkKcnTgCLcBGAsYHQ/w320-h192/MOD-Bussid-RX-King.jpg",
+      "link_mods":"https://drive.google.com/file/d/1ZQa0-nCvkXupKDSXHu03-JuD6cCjAUb6/view",
+      "link_livery":""
+},
+{
+      "title":"Gojek Honda CRF",
+      "image":"https://1.bp.blogspot.com/-llPTZ4vxtyY/YKLAXZxPInI/AAAAAAAAMqA/Hy_fnscvxIsdRjydUr37uT87szOBDi6EgCLcBGAsYHQ/w320-h148/MOD-Bussid-honda-crf.jpg",
+      "link_mods":"https://drive.google.com/file/d/1RUi35a8Odeelmxeuka2lOszf5ZxR8_5l/view?usp=sharing",
+      "link_livery":""
+},
+{
+      "title":"Honda Beat drag 1",
+      "image":"https://1.bp.blogspot.com/-whGn9bVvLD0/YKLCLE4vyPI/AAAAAAAAMqQ/OTdGIRMs6DgAwKB8LSn6tgS2FPJ3qm3CQCLcBGAsYHQ/w320-h145/MOD-Bussid-honda-beat-drag.jpg",
+      "link_mods":"https://drive.google.com/file/d/1jiqoZl96zx_HK3eQDKvHrPuBtAPeI2XM/view?usp=sharing",
+      "link_livery":""
+},
+{
+      "title":"Motor RX King",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/IMG_20191021_145906.jpg",
+      "link_mods":"https://dl.modbussid.co.id/3kz",
+      "link_livery":""
+},
+{
+      "title":"Motor Yamaha Aerox 155cc",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Motor-Yamaha-Aerox-155cc.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/3n0",
+      "link_livery":""
+},
+{
+      "title":"MX King 150",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2022/07/Motor-MX-King-150.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/6qu",
+      "link_livery":""
+},
+{
+      "title":"Motor CBR150r Knalpot Racing",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2022/07/Motor-CBR150r-Knalpot-Racing.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/6qv",
+      "link_livery":""
+},
+{
+      "title":"Motor Harley-Davidson FLHXS",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Motor-Harley-Davidson.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/6og",
+      "link_livery":""
+},
+{
+      "title":"Motor Honda PCX 150ccThailook Style",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/05/MOD-BUSSID-Motor-Honda-PCX-150ccThailook-Style.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/6k6",
+      "link_livery":"https://dl.modbussid.co.id/6ij"
+},
+{
+      "title":"Motor Kawasaki Ninja ZX-6R",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/03/MOD-BUSSID-Motor-Kawasaki-Ninja-ZX-6R-1.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/6h5",
+      "link_livery":"https://dl.modbussid.co.id/6h7"
+},
+{
+      "title":"Motor Yamaha YZR Valentino Rossi",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-Motor-Yamaha-YZR-Valentino-Rossi-1.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/6g6",
+      "link_livery":""
+},
+{
+      "title":"Motor Vespa Matic",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-Motor-Vespa-Matic-1.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/6eb",
+      "link_livery":""
+},
+{
+      "title":"Motor Kawasaki KLX",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/01/MOD-BUSSID-Motor-Kawasaki-KLX-1.jpeg",
+      "link_mods":"https://file.modbussid.co.id/68a",
+      "link_livery":""
+},
+{
+      "title":"Motor Honda C70",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/MOD-BUSSID-Motor-Honda-C70.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/3t3",
+      "link_livery":"https://dl.modbussid.co.id/3t5"
+},
+{
+      "title":"Motor Kawasaki Ninja 150RR Drag",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/MOD-BUSSID-Motor-Kawasaki-Ninja-150RR-Drag.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/3s2",
+      "link_livery":""
+},
+{
+      "title":"Motor Yamaha Mio Drag Racing 200cc",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/MOD-BUSSID-Motor-Yamaha-Mio-Drag-Racing-200cc.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/3s1",
+      "link_livery":""
+},
+{
+      "title":"Motor Honda CRF",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/MOD-BUSSID-Motor-Honda-CRF-.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/63h",
+      "link_livery":""
+},
+{
+      "title":"Motor Yamaha YZF R15 155cc",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/MOD-BUSSID-Motor-Yamaha-YZF-R15-155cc.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/63f",
+      "link_livery":""
+},
+{
+      "title":"Motor Viar Bak Terbuka",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Motor-Viar-Bak-Terbuka.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/5T4",
+      "link_livery":""
+},
+{
+      "title":"Motor Ninja H2R",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Motor-Ninja-H2R.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/5T0",
+      "link_livery":""
+},
+{
+      "title":"Motor Suzuki Satria FU Drag",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Motor-Suzuki-Satria-FU-Drag.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/5T1",
+      "link_livery":""
+},
+{
+      "title":"Motor Honda Vario 150 Knalpot Racing (Mberrr)",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Motor-Honda-Vario-150-Knalpot-Racing.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/5SU",
+      "link_livery":""
+},
+{
+      "title":"Motor BMW S1000RR",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Motor-BMW-S1000RR.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/3hx",
+      "link_livery":""
+},
+{
+      "title":"Motor Vespa Super 150",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Motor-Vespa-Super-150.jpeg
+      "link_mods":"https://dl.modbussid.co.id/5T3",
+      "link_livery":""
+},
+{
+      "title":"Motor Honda CB 150R",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Motor-Honda-CB-150R.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/3jn",
+      "link_livery":""
+},
+{
+      "title":"otor Kawasaki Ninja ZX-25R",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Motor-Kawasaki-Ninja-ZX-25R.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/3jo",
+      "link_livery":""
+},
+{
+      "title":"Motor KTM Duke 150",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Motor-KTM-Duke-150.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/5SZ",
+      "link_livery":""
+},
+{
+      "title":"Motor Vespa Omah",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/10/MOD-BUSSID-Motor-Vespa-Omah.jpeg",
+      "link_mods":"https://dl.modbussid.co.id/5T2",
+      "link_livery":""
+},
+{
+      "title":"Motor Astrea Legenda Klasik",
+      "image":"https://gameitu.com/wp-content/uploads/2022/03/1.-Mod-Bussid-Motor-Astrea-Legenda-Klasik.jpg",
+      "link_mods":"https://www.mediafire.com/file/xtdcrcg1sare2ot/Honda_Astrea_Legenda_V1_Standar_by_AzuMods.bussidmod/file",
+      "link_livery":""
+},
+{
+      "title":"Motor Moge Kawasaki Z800 Boncengin Cewek",
+      "image":"https://gameitu.com/wp-content/uploads/2022/03/7.-Mod-Bussid-Motor-Moge-Kawasaki-Z800-Boncengin-Cewek.jpg",
+      "link_mods":"https://www.mediafire.com/file/94fuzwpykj7z1od/Kawasaki_Z800_V1.2_Speed_Kencang_Solo_Riding_by_Azumods.bussidmod/file",
+      "link_livery":""
+}
+	
+  ]
+}
